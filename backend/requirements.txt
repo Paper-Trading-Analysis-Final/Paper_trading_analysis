@@ -1,0 +1,14 @@
+flask
+flask-session
+flask-cors
+werkzeug
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+yfinance
+PyJWT
+passlib[bcrypt]
+feedparser
+textblob
+numpy
